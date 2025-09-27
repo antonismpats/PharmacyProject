@@ -1,1 +1,1 @@
-Απλό σύστημα διαχείρισης αποθήκης φαρμάκων σε Java. Επιτρέπει τη δημιουργία φαρμάκων, την καταγραφή εισερχόμενων/εξερχόμενων κινήσεων, το φιλτράρισμα ανά κατηγορία και ημερομηνία, και τον υπολογισμό του τρέχοντος υπολοίπου της αποθήκης.
+Simple pharmacy warehouse management system in Java. It allows the creation of drugs, recording of incoming and outgoing warehouse movements, filtering by category and date, and calculating the current warehouse balance.
